@@ -1,4 +1,4 @@
-# STEM2Sim_TMP
+# STEM2Sim
 
 ## Turtorial to start with Image Retrieval
 
